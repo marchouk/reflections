@@ -1,0 +1,52 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It helped me quickly to see the diff, just seconds.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It can help me restoring old versions of that file if I have problems with new versions. and then gain time.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+pros :
+ - not saving a lots of versions when editing files.
+cons :
+ - you have to create the commit and add a clear message for the commit
+
+
+ Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+ Because version control systems, like Git are for developers and programmers. they want to save all files once a time. 
+
+ How might using version control make you more confident to make changes that could break something?
+ when editing a file we can change a code accidently and do commit, so to resolve this problem we restore an older verion of this file.
+
+ Now that you have your workspace set up, what do you want to try using Git for?
+ To control my project files's versions 
+
+
+ How can you use the commands git log and git diff to view the history of files?
+ 1 git log for viewing history of commits;; showing all commits of a repository;;Log shows you commits in a given repository
+ 2 git clone for cloning a repository from server to your host
+ 3 git diff for comparing two commits with their IDs
+ 4 git checkout for temporarily restoring a previous version at the time of any commit,, 
+ 		for temporarily changing files back to how they were at the time of any commit  
+
+ git init Create a new git Repo.
+ git status
+ git add
+ git reset
+ git commit 
+
+
+ git config for git's configiration
+
+ - a commit is snapshot of every file in the respository at the time the commit was made
+ - Head is what git calls, the commit that you're currently working on.
+ = Repository is a directory on your machine that store a bunch of metadata about the history of the repository since it was created.
+
+
+Directory:
+A folder used for storing multiple files.
+Repository:
+A directory where Git has been initialized to start version controlling your files.
+
+Staging Area:
+A place where we can group files together before we "commit" them to Git.
+

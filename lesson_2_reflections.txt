@@ -4,3 +4,7 @@ the history of that repo
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is the preparation area for files to be committed. Only files in this area are going to be included in the commit executed next time. It helps to divide changes in the working directory into several commits, each of which consists of a group of changes that represent a logical change to the relevant files.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+We can place all files, inside the logical change, to staging area and after that we can commit them in one commit

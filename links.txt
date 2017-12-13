@@ -1,4 +1,6 @@
 https://github.com/GM3D/reflections  ==> Lessons Reflections
 http://udacity.github.io/git-styleguide/ ==> Udacity Git Commit Message Style Guide
 https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sheet.pdf  
-			==> Git cheat sheet
+			==> Git cheat sheet (cmds)
+https://github.com/github/training-kit/tree/master/downloads 
+		==> Git fundamentals,, terminal cmds 

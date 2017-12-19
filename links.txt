@@ -4,3 +4,6 @@ https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sh
 			==> Git cheat sheet (cmds)
 https://github.com/github/training-kit/tree/master/downloads 
 		==> Git fundamentals,, terminal cmds 
+
+
+a commit, to commit, repo, branch, git, VCS, head

@@ -8,3 +8,12 @@ Staging area is the preparation area for files to be committed. Only files in th
 
 How can you use the staging area to make sure you have one commit per logical change?
 We can place all files, inside the logical change, to staging area and after that we can commit them in one commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+It can help to test a feature and work on without touching the real running project
+
+How do the diagrams help you visualize the branch structure?
+It can help me to visualize all branches and their commits
+
+
+branches , merging, reachability
